@@ -1,3 +1,5 @@
+package exceptionhandling;
+
 class Amount {
     private String currency;
     private int amount;

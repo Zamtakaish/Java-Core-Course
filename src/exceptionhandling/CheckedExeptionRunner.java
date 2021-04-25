@@ -1,3 +1,5 @@
+package exceptionhandling;
+
 public class CheckedExeptionRunner {
     public static void main(String[] args) {
         try{
