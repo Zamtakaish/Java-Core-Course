@@ -13,5 +13,5 @@ public class TryWithResourcesRunner {
 
             int number = numbers[21];
         }
-;    }
+    }
 }
